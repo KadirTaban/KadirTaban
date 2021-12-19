@@ -1,16 +1,55 @@
-### Hi there 👋
+### Hi there, I'm Kadir Taban 👋
 
-<!--
-**KadirTaban/KadirTaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Github followers](https://img.shields.io/github/followers/KadirTaban?style=social)
+![GitHub stars](https://img.shields.io/github/stars/KadirTaban?style=social)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=KadirTaban&theme=blue-green)
+
+
+## Back-end Developer
+- ⚡️ I'm currently working as a Flask Developer at @mountainlabs-dev.
+- 🧑🏻‍💻 Computer Engineering Student, life time student.
+- ## Projects:
+  *Norland Backend - Flask & Firestore - Private Repo,@mountainlabs-dev
+  
+  *FaceMaskDetector - Python & Haarcascade & OpenCV - Public Repo, Personal Project
+  
+  *Traffy -  Python & Haarcascade & OpenCV - Public Repo, Personal Project
+  
+  *TheNews - Django & SQLite3 & SwaggerUI - Public Repo, Personal Project
+  
+  *NorthWind(UserManagementSystem) - Spring Boot & PostgreSQL - Public Repo, Personal Project
+  
+  *MaskDetector - Python & Haarcascade & OpenCV - Public Repo, Personal Project
+  
+  *FaceDetectWMultiProccessing - Python & Haarcascade & OpenCV - Public Repo, Personal Project
+  
+  *Traffy -  Python & Haarcascade & OpenCV - Public Repo, Personal Project
+  
+  *BetWithFriendsBackend - Django & SQlite3 - Private Repo, Personal Project
+  
+  *BwfFrontend - React Javascript % CSS - Private Repo, Personal Project
+
+ 
+ ## Contacts:
+
+  <a href="https://twitter.com/kadirtaban_" ><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  
+  <a href = "mailto:kadirtaban08@gmail.com"> <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  
+  <a href = "https://kadirtaban08.medium.com/"> <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+
+ 
+  
+  <details>
+     <img src = "https://img.shields.io/badge/-PyCharm-black?style=flat-square&logo=jetbrains">
+        <img src = "https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+        <img src = "https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+      <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src ="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src ="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+      
+    
+    
+  </details>
