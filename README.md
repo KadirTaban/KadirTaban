@@ -8,10 +8,10 @@
 
 
 ## Back-end Developer
-- ⚡️ I'm currently working as a Web Developer at @mountainlabs-dev.
+- ⚡️ I'm currently working as a Flask Developer at<a href = "https://github.com/mountainlabs-dev">@mountainlabs-dev.</a>
 - 🧑🏻‍💻 Computer Engineering Student, life time student.
 - ## Projects:
-  *Norland Backend - Flask & Firestore - Private Repo,@mountainlabs-dev
+  *Norland Backend - Flask & Firestore - Private Repo,<a href = "https://github.com/mountainlabs-dev">@mountainlabs-dev</a>
   
   *FaceMaskDetector - Python & Haarcascade & OpenCV - Public Repo, Personal Project
   
