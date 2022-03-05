@@ -12,11 +12,11 @@
 - 🧑🏻‍💻 Computer Engineering Student, life time student.
 - ## Projects:
 
-  *ApiFlask - Flask - <a href = "https://github.com/KadirTaban/ApiFlask" >Public Repo</a> 
+  *ApiFlask - Flask & Firebase <a href = "https://github.com/KadirTaban/ApiFlask" >Public Repo</a> 
   
   *Dropdown-Vue - VueJS - <a href = "https://github.com/KadirTaban/DropdownMenu-vue" >Public Repo</a> 
   
-  *Norland Backend - Flask & Firestore - Private Repo,<a href = "https://github.com/mountainlabs-dev">@mountainlabs-dev</a>
+  *Norland Backend - Flask & Firebase - Private Repo,<a href = "https://github.com/mountainlabs-dev">@mountainlabs-dev</a>
   
   *FaceMaskDetector - Python & Haarcascade & OpenCV - Public Repo, Personal Project
   
