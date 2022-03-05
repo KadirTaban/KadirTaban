@@ -9,6 +9,7 @@
 
 ## Back-end Developer
 - ⚡️ I'm currently working as a Flask Developer at<a href = "https://github.com/mountainlabs-dev">@mountainlabs-dev.</a>
+- 👓 I also started learning VueJS.
 - 🧑🏻‍💻 Computer Engineering Student, life time student.
 - ## Projects:
 
