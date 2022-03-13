@@ -3,11 +3,14 @@
 
 ![Github followers](https://img.shields.io/github/followers/KadirTaban?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/KadirTaban?style=social)
+
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KadirTaban&theme=blue-green)
 
 
 ## Back-end Developer
-- ⚡️ I'm currently working as a Flask Developer at<a href = "https://github.com/mountainlabs-dev">@mountainlabs-dev.</a>
+- ⚡️ I'm currently working as a Flask Developer at <a href = "https://github.com/mountainlabs-dev">@mountainlabs-dev.</a>
 - 👓 I also started learning VueJS.
 - 🧑🏻‍💻 Computer Engineering Student, life time student.
 - ## Projects:
