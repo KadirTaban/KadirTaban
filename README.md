@@ -1,4 +1,4 @@
-### Hi there, I'm Kadir Taban 👋
+### Hi there, I'm Kadir 👋
 
 
 ![Github followers](https://img.shields.io/github/followers/KadirTaban?style=social)
