@@ -1,7 +1,6 @@
 ### Hi there, I'm Kadir 👋
 
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KadirTaban.visitor-badge)![Github followers](https://img.shields.io/github/followers/KadirTaban?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/KadirTaban?style=social)
 
 
@@ -46,6 +45,7 @@
   <a href = "mailto:kadirtaban08@gmail.com"> <img src ="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   
   <a href = "https://kadirtaban08.medium.com/"> <img src = "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KadirTaban.visitor-badge)![Github followers](https://img.shields.io/github/followers/KadirTaban?style=social)
 
  
   
