@@ -1,7 +1,7 @@
 ### Hi there, I'm Kadir 👋
 
 
-![Github followers](https://img.shields.io/github/followers/KadirTaban?style=social)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=KadirTaban.visitor-badge)![Github followers](https://img.shields.io/github/followers/KadirTaban?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/KadirTaban?style=social)
 
 
