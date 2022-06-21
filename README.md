@@ -8,9 +8,6 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KadirTaban&theme=blue-green)
 
 
-## Back-end Developer
-- ⚡️ I'm currently working as a Flask Developer at <a href = "https://github.com/mountainlabs-dev">@mountainlabs-dev.</a>
-- 🧑🏻‍💻 Computer Engineering Student, life time student.
 - ## Projects:
 
   *ApiFlask - Flask & Firebase <a href = "https://github.com/KadirTaban/ApiFlask" >Public Repo</a> 
