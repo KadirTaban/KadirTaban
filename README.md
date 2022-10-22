@@ -9,6 +9,8 @@
 
 
 - ## Projects:
+  
+  *WhereMeetup - Django&HTML&CSS <a href = "https://github.com/KadirTaban/WhereMeetupDjango"> Public Repo</a>
 
   *ApiFlask - Flask & Firebase <a href = "https://github.com/KadirTaban/ApiFlask" >Public Repo</a> 
   
