@@ -3,7 +3,6 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/KadirTaban?style=social)
 ![Github followers](https://img.shields.io/github/followers/KadirTaban?style=social)
-[![wakatime](https://wakatime.com/badge/user/8d497b6a-fc4a-42ce-a4c9-ff4cb307a753.svg)](https://wakatime.com/@8d497b6a-fc4a-42ce-a4c9-ff4cb307a753)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KadirTaban&theme=blue-green)
 
