@@ -9,7 +9,7 @@
 
 - ## Projects:
   
-   *EnocaHackathon(CustomerAdressManagement) - Spring Boot <a href = "https://github.com/KadirTaban/EnocaHackathon"> Public Repo</a>
+   *EnocaHackathon(CustomerAddressManagement) - Spring Boot <a href = "https://github.com/KadirTaban/EnocaHackathon"> Public Repo</a>
   
   *WhereMeetup - Django&HTML&CSS <a href = "https://github.com/KadirTaban/WhereMeetupDjango"> Public Repo</a>
 
