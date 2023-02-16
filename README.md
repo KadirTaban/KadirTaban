@@ -8,6 +8,10 @@
 
 
 - ## Projects:
+
+    *EmployeeCompanyManagement - Spring Boot (Java 17) <a href = "https://github.com/KadirTaban/company-employee"> Public Repo</a>
+    
+    *Travel Tog Web App - Django&Html&Bootstrap - PostgreSql  <a href = "https://github.com/KadirTaban/TravelTog"> Public Repo</a>
   
    *EnocaHackathon(CustomerAddressManagement) - Spring Boot <a href = "https://github.com/KadirTaban/EnocaHackathon"> Public Repo</a>
   
