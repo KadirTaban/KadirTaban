@@ -1,4 +1,5 @@
 ### Hi there, I'm Kadir 👋
+### Backend Developer at  <a href = "https://egaranti.com">egaranti</a> 🚀⚙️💙
 
 
 ![GitHub stars](https://img.shields.io/github/stars/KadirTaban?style=social)
