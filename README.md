@@ -10,6 +10,7 @@
 
 - ## Projects:
 
+    *redis-cache-template - Spring Boot (Java 17) <a href = "https://github.com/KadirTaban/redis-cache-springboot"> Public Repo</a>
 
     *RestTemplateIntegration - Spring Boot (Java 17) <a> Private Repo</a>
     
