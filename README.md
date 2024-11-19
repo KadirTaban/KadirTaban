@@ -10,6 +10,13 @@
 
 - ## Projects:
 
+
+    *RestTemplateIntegration - Spring Boot (Java 17) <a> Private Repo</a>
+    
+    *SpringSecurityDemo - Spring Boot (Java 17) <a href = "https://github.com/KadirTaban/spring-security-demo"> Public Repo</a>
+
+    *NomadWork - Spring Boot (Java 17) <a href = "https://github.com/KadirTaban/work-places-be"> Public Repo</a>  
+    
     *EmployeeCompanyManagement - Spring Boot (Java 17) <a href = "https://github.com/KadirTaban/company-employee"> Public Repo</a>
     
     *Travel Tog Web App - Django&Html&Bootstrap - PostgreSql  <a href = "https://github.com/KadirTaban/TravelTog"> Public Repo</a>
