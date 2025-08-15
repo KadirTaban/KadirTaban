@@ -1,6 +1,6 @@
 # Hi there, I'm Kadir 👋
 
-## 🚀 Software Engineer at <a href="https://egaranti.com">egaranti 💙</a>
+## 🚀 Software Engineer at <a href="https://egaranti.com">egaranti</a>
 
 I'm a passionate Backend Developer specializing in Java technologies, including Spring Boot and Quarkus. I bring a wealth of experience from diverse projects, showcasing proficiency in writing clean, maintainable, and SOLID-compliant code. I focus on building scalable and efficient backend architectures while ensuring RESTful API design and adherence to best practices.
 
